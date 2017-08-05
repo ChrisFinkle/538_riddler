@@ -1,3 +1,4 @@
+#!python3
 import random
 numPlayers = 31
 
